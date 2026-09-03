@@ -1,1 +1,0 @@
-Deployment note: this file exists only to keep the desktop hero overlay change isolated during parity verification. It can be removed once the hero is accepted and the CSS is folded into globals.css.
