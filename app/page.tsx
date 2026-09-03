@@ -23,7 +23,7 @@ export default function Home() {
         </div>
         <div className="home-hero-visual">
           <img
-            src="/media/rolling-dents-hero-approved.webp"
+            src="/media/rolling-dents-hero-final.svg"
             alt="Graphite performance sedan in a professional automotive paint booth"
             style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", objectPosition: "62% center" }}
           />
