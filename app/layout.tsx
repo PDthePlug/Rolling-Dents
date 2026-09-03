@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import "./hero-desktop.css";
 import { MobileActions } from "@/components/rolling-dents/mobile-actions";
 import { SiteFooter } from "@/components/rolling-dents/site-footer";
 import { SiteHeader } from "@/components/rolling-dents/site-header";
