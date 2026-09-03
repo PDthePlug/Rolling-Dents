@@ -22,7 +22,11 @@ export default function Home() {
           </div>
         </div>
         <div className="home-hero-visual">
-          <img src="/og.png" alt="Premium Mercedes-Benz in a professional automotive paint booth" />
+          <img
+            src="/media/rolling-dents-hero-approved.webp"
+            alt="Graphite performance sedan in a professional automotive paint booth"
+            style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", objectPosition: "62% center" }}
+          />
           <div className="hero-image-shade" />
           <a className="hero-project-card" href={whatsappUrl("Hi Rolling Dents, I would like to send photographs for a repair assessment.")} target="_blank" rel="noreferrer"><span className="pulse-dot" /><span><small>QUICK ASSESSMENT</small><strong>Send damage photos on WhatsApp</strong></span><ArrowRight /></a>
         </div>
