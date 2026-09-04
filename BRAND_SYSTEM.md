@@ -19,7 +19,11 @@ Use `rolling-dents-mark-mono.svg` where one colour is required.
 ## Wordmark variants
 - `rolling-dents-wordmark.svg`: dark-background horizontal wordmark
 - `rolling-dents-wordmark-light.svg`: light-background horizontal wordmark
-- `rolling-dents-wordmark-mono.svg`: single-colour wordmark
+- `rolling-dents-wordmark-mono.svg`: general single-colour wordmark
+- `rolling-dents-invoice-mono.svg`: dedicated one-colour invoicing and stationery variant
+
+## Invoicing / stationery
+Use `public/brand/rolling-dents-invoice-mono.svg` for invoices, quotations, purchase-order documents, stamps and other one-colour business stationery. It is intentionally single-colour so it remains legible in black-and-white print and PDF workflows.
 
 ## Colour system
 - Carbon Black: #090A0A
@@ -37,6 +41,7 @@ Use `rolling-dents-mark-mono.svg` where one colour is required.
 4. Use the light-background wordmark on cream or white.
 5. Do not add shadows, bevels, gradients or additional colours to the production logo.
 6. Use the compact mark without the wordmark only where space is constrained or where the brand name is already visible.
+7. Use the dedicated monochrome invoicing variant for one-colour documents rather than converting the full-colour logo ad hoc.
 
 ## Brand voice
 Direct, technically confident and customer-facing. Focus on the repair standard, clarity of process and the visible finish. Avoid inflated luxury language, internal engineering terminology and generic automotive clichés.
